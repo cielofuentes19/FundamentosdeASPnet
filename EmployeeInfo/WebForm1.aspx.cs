@@ -78,5 +78,6 @@ namespace EmployeeInfo
         initPositionRol();
         Posicion.SelectedIndex = 0;
         InfoLabel.Text = "";
-    }
+    }
+
 }
