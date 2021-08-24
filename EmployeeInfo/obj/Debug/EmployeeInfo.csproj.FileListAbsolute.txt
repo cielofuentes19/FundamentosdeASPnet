@@ -5,3 +5,5 @@ C:\Users\asus\Documents\U\6° SEMESTRE\DESARROLLO DE APLICACIONES\PRÁCTICAS\PR�
 C:\Users\asus\Documents\U\6° SEMESTRE\DESARROLLO DE APLICACIONES\PRÁCTICAS\PRÁCTICA 01\Fundamentos de ASPnet\FundamentosdeASPnet\EmployeeInfo\obj\Debug\EmployeeInfo.csproj.CoreCompileInputs.cache
 C:\Users\asus\Documents\U\6° SEMESTRE\DESARROLLO DE APLICACIONES\PRÁCTICAS\PRÁCTICA 01\Fundamentos de ASPnet\FundamentosdeASPnet\EmployeeInfo\obj\Debug\EmployeeInfo.dll
 C:\Users\asus\Documents\U\6° SEMESTRE\DESARROLLO DE APLICACIONES\PRÁCTICAS\PRÁCTICA 01\Fundamentos de ASPnet\FundamentosdeASPnet\EmployeeInfo\obj\Debug\EmployeeInfo.pdb
+D:\Sistemas\Algoritmia\Tareas\FundamentosdeASPnet\EmployeeInfo\obj\Debug\EmployeeInfo.dll
+D:\Sistemas\Algoritmia\Tareas\FundamentosdeASPnet\EmployeeInfo\obj\Debug\EmployeeInfo.pdb
